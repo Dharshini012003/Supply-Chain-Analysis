@@ -1,2 +1,2 @@
 # Supply-Chain-Analysis
-Supply Chain Analysis using Python
+Supply Chain Analysis in Python using Pandas, Plotly libraries
